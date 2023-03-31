@@ -1,2 +1,2 @@
-# exercise-reduce
+# Exercise - Reduce
 Exercise practicing advanced array method: "reduce."
